@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+
+.mainedit{
+	position: relative;
+}
+
+.mainimage{
+
+
+}
+
+.main{
+	position: absolute;
+	font-size: 14px;
+	color: #FFFFFF;
+	top: 20px;
+	left: 20px
+
+}
