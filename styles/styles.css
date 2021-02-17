@@ -13,6 +13,7 @@
 .main{
 	position: absolute;
 	font-size: 16px;
+	font-family: Poppins;
 	color: #FFFFFF;
 	top: 20px;
 	left: 150px;
@@ -65,23 +66,23 @@
 }
 .h1edit{
 	height: 160px;
-	width: 400px;
+	width: 576px;
 	position: absolute;
+	font-family: Poppins;
 	font-size: 62px;
-	font-weight: bold;
 	color: #FBFBFB; 
-	top: 300px;
+	top: 240px;
 	left: 150px;
 }
 
 .h1edit2{
 	height: 160px;
-	width: 500px;
+	width: 576px;
 	position: absolute;
+	font-family: Poppins;
 	font-size: 62px;
-	font-weight: bold;
 	color: #FBFBFB; 
-	top: 370px;
+	top: 300px;
 	left: 150px;
 }
 
@@ -91,7 +92,7 @@
 	position: absolute;
 	font-size: 14px;
 	color: #FBFBFB; 
-	top: 480px;
+	top: 400px;
 	left: 150px
 }
 
@@ -114,9 +115,9 @@
 
 .h1sect{
 	position: relative;
-	width: 300px;
+	width: 374px;
 	font-size: 40px;
-	font-weight: bold;
+	font-family: Poppins;
 	color: #000000; 
 	top: 100px;
 	left: 150px;
@@ -169,6 +170,7 @@
 .footh1{
 	position: absolute;
 	font-size: 24px;
+	font-family: Poppins;
 	font-weight: bold;
 	color: #FBFBFB; 
 	top: 70px;
