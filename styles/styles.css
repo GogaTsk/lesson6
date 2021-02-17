@@ -8,12 +8,11 @@
 
 .mainimage{
 
-
 }
 
 .main{
 	position: absolute;
-	font-size: 14px;
+	font-size: 16px;
 	color: #FFFFFF;
 	top: 20px;
 	left: 150px;
@@ -86,8 +85,6 @@
 	left: 150px;
 }
 
-
-
 .pedit{
 	width: 352px;
 	height: 64px;
@@ -105,7 +102,6 @@
 	color: #FBFBFB; 
 	top: 600px;
 	left: 150px;
-
 
 }
 
@@ -205,4 +201,17 @@
 	top: 200px;
 	left: 250px;
 }
+
+.footp2{
+	position: absolute;
+	width: 800px;
+	font-size: 16px;
+	color: #FBFBFB; 
+	top: 250px;
+	left: 150px;
+}
+
+.editblue{
+	color: #5863F8;
+	
 }
